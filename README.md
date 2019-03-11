@@ -1,2 +1,3 @@
-# scm_demo1
-scm_demo1
+# Turntable lucky draw
+
+A HTML5 web page with lucky draw
